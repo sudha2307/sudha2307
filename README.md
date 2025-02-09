@@ -18,8 +18,8 @@
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Machine learning and Data Science.\
 ✍️ &nbsp;Apart from technical interests, I like dancing,watching movies, reading novels, playing Chess and badminton.\
 💬 &nbsp;Feel free to reach out to me for general consulting, or discussions \
-✉️ &nbsp;You can email me at avinash201199@gmail.com. I'll try to respond as soon as possible!\
-📄 &nbsp;You can check my [Resume](https://drive.google.com/file/d/1K4-g2LlUJFHv-JzBtrBBSeBOUiRN1-iQ/view?usp=sharing) for more details about work experience.
+✉️ &nbsp;You can email me at m.sudha23ss@gmail.com. I'll try to respond as soon as possible!\
+📄 &nbsp;You can check my [Resume](https://drive.google.com/file/d/1yZtNXT7GpHjtsHHIlRm_lyPBaf6BTjei/view?usp=sharing) for more details about work experience.
 
 -----
 ### 📫 &nbsp; How to reach me:
