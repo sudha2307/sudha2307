@@ -27,12 +27,12 @@
 
 
 ## 📊 GitHub Stats:
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itsvaibhavmishra&theme=radical)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=itsvaibhavmishra&theme=moonlight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=itsvaibhavmishra&theme=moonlight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sudha2307&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sudha2307&theme=moonlight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sudha2307&theme=moonlight)
 
-![](https://github-readme-stats.vercel.app/api?username=itsvaibhavmishra&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=itsvaibhavmishra&theme=nightowl&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=sudha2307&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=sudha2307&theme=nightowl&hide_border=false)<br/>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
@@ -40,7 +40,7 @@
 <br>
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=itsvaibhavmishra&&style=for-the-badge" align="center" />
+<img src="https://komarev.com/ghpvc/?username=sudha2307&&style=for-the-badge" align="center" />
 </div>
 
 <hr>
