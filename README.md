@@ -5,7 +5,7 @@ An Information Technology Graduate with hands-on experience in backend developme
 
 I'm excited to leverage my skills and knowledge to contribute to innovative projects and collaborate with like-minded professionals. Let's connect and work together in the dynamic world of technology.
 
-Age: 20
+Age: 21
 
 Phone : +91 9159213595
 
