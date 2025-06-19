@@ -1,6 +1,7 @@
 ## 💫 About Me:
 I'm SUDHAKAR M
-A Information Technology Graduate with hands-on experience in backend development using Python and front-end frameworks like Flutter and React. Skilled in UI/UX design with Figma. I have developed several small-scale projects showcasing my ability to work with modern technologies and frameworks. I have gained practical experience through internships, where I honed my skills in development and design.
+
+An Information Technology Graduate with hands-on experience in backend development using Python and front-end frameworks like Flutter and React. Skilled in UI/UX design with Figma. I have developed several small-scale projects showcasing my ability to work with modern technologies and frameworks. I have gained practical experience through internships, where I honed my skills in development and design.
 
 I'm excited to leverage my skills and knowledge to contribute to innovative projects and collaborate with like-minded professionals. Let's connect and work together in the dynamic world of technology.
 
