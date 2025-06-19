@@ -4,13 +4,13 @@ A Information Technology Graduate with hands-on experience in backend developmen
 
 I'm excited to leverage my skills and knowledge to contribute to innovative projects and collaborate with like-minded professionals. Let's connect and work together in the dynamic world of technology.
 
-age: 20
+Age: 20
 
-phone : +91 9159213595
+Phone : +91 9159213595
 
-email : m.sudha23ss@gmail.com
+Email : m.sudha23ss@gmail.com
 
-place : chennai ,Tamil Nadu.
+Place : chennai ,Tamil Nadu.
 
 🌱 Learning something new everyday <br> 👨🏻‍💻 I'm looking forward to collaborate with other dev's
 
