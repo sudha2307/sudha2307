@@ -7,7 +7,7 @@ I'm excited to leverage my skills and knowledge to contribute to innovative proj
 
 Age: 21
 
-Phone : +91 9159213595
+Phone : <a href="https://wa.me/919159213595" target="_blank">+91 9159213595 </a>
 
 Email : <a href="mailto:m.sudha23ss@gmail.com"> m.sudha23ss@gmail.com</a>
 
