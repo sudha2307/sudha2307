@@ -9,7 +9,7 @@ Age: 21
 
 Phone : +91 9159213595
 
-Email : m.sudha23ss@gmail.com
+Email : <a href="mailto:m.sudha23ss@gmail.com"> m.sudha23ss@gmail.com</a>
 
 Place : chennai ,Tamil Nadu.
 
